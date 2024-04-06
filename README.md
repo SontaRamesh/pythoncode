@@ -1,5 +1,5 @@
 # pythoncode
-#Check anagram or not problem
+#Check whether anagram or not problem
 s1=str(len(input("enter a string1:")))
 s2=str(len(input("enter a string2:")))
 if(s1==s2):
